@@ -1,6 +1,20 @@
+# Core numerical computing library used for arrays, vectorized operations,
+# random number generation, and implementing GBM simulations.
 numpy
+
+# High-level data manipulation and time-series analysis library.
+# Used for handling stock price data, log returns, and DataFrames.
 pandas
+
+# Visualization library for plotting GBM paths and histograms.
 matplotlib
+
+# Scientific computing library providing statistical distributions (normal, chi-square)
+# used for confidence intervals and parameter estimation.
 scipy
+
+# Yahoo Finance API wrapper used to download historical stock data for simulation.
 yfinance
+
+# Jupyter environment required to run and reproduce the Monte Carlo simulation notebook.
 jupyter
